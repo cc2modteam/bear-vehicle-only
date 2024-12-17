@@ -1,4 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <data author="Bredroll, Mr. Scoot"
-      description="Doubles the movement speed of the Bear while in the water" name="Bear 2x Water"
+      description="Doubles the movement speed of the Bear while in the water
+
+ * Modifies the side hardpoints to make TV missile use easier
+ * Adds 6 hidden hardpoints for use with other mods like 'Revolution:Engineering'
+" name="Rev:Angry Bear"
 />
